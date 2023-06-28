@@ -6,11 +6,9 @@
 <img align="top" alt="Coding" width="300" src="https://nitishkaushik.com/wp-content/uploads/2020/07/what-is-devops.gif">
 
 Hello there! Welcome! Vamsi Priya here. I've worked in the IT sector for about 4 years. I'm someone who likes to keep up with the latest trends. If you're the same person, new to the IT industry/a student, I'm ready for collaboration. I like to always connect with the world and serve the people who are in need!!
-- 🔭 I’m currently working on **3-Tier Architecture Applications**
- - 🌱 I’m currently learning **Kubernetes**
 - 🤝 I’m looking for help with **building projects**
 - 📝 I regularly write articles on [https://learnawscloudwithme.blogspot.com/](https://learnawscloudwithme.blogspot.com/)
-- 💬 Ask me about **Jenkins, Shell Scripting, Ansible, Docker**
+- 💬 Ask me about **Jenkins, Shell Scripting, Ansible,k8s,Terraform,Docker**
 - 📫 How to reach me **vamsipriyavemulamda@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
