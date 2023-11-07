@@ -10,6 +10,7 @@ Hello there! Welcome! Vamsi Priya here. I've worked in the IT sector for about 4
 - 📝 I regularly write articles on [https://learnawscloudwithme.blogspot.com/](https://learnawscloudwithme.blogspot.com/)
 - 💬 Ask me about **Jenkins, Shell Scripting, Ansible,k8s,Terraform,Docker**
 - 📫 How to reach me **vamsipriyavemulamda@outlook.com**
+- Any Mentorship Ideas: https://mentors.codingcoach.io/u/6245276d4474770664ca7ca5
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
