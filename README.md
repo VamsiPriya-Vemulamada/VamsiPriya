@@ -1,7 +1,7 @@
-![logo](http://bitly.ws/CoM6)
+
 
 <h1 align="center">Hi 👋, I'm Vamsi Priya</h1>
-<h3 align="center">Passionate on DevOps Technolgies!</h3>
+<!-- <h3 align="center">Passionate on DevOps Technolgies!</h3> -->
 
 <img align="top" alt="Coding" width="300" src="https://nitishkaushik.com/wp-content/uploads/2020/07/what-is-devops.gif">
 
